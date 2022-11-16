@@ -7,8 +7,8 @@ const HeadlineCards = () => {
       <div className="rounded-xl relative ">
         {/* overlay */}
         <div className="absolute w-full h-full bg-black/50 rounded-xl ">
-          <p className="font-bold text-white text-2xl px-2 pt-4">Sun's Over</p>
-          <p className="text-white text-xl px-2 my-2">BOGO 8/26</p>
+          <p className="font-bold text-white text-2xl px-2 pt-4">Sun's Light Over</p>
+          <p className="text-white text-xl px-2 my-2">Through 8/26</p>
           <button className="border-white bg-white text-black font-bold absolute bottom-4 ml-4">
             Order Now
           </button>
@@ -22,8 +22,8 @@ const HeadlineCards = () => {
       <div className="rounded-xl relative ">
         {/* overlay */}
         <div className="absolute w-full h-full bg-black/50 rounded-xl ">
-          <p className="font-bold text-white text-2xl px-2 pt-4">Sun's Over</p>
-          <p className="text-white text-xl px-2 my-2">BOGO 8/26</p>
+          <p className="font-bold text-white text-2xl px-2 pt-4">Sun's Nice Burger</p>
+          <p className="text-white text-xl px-2 my-2">Through 8/26</p>
           <button className="border-white bg-white text-black font-bold absolute bottom-4 ml-4">
             Order Now
           </button>
@@ -37,8 +37,8 @@ const HeadlineCards = () => {
       <div className="rounded-xl relative ">
         {/* overlay */}
         <div className="absolute w-full h-full bg-black/50 rounded-xl ">
-          <p className="font-bold text-white text-2xl px-2 pt-4">Sun's Over</p>
-          <p className="text-white text-xl px-2 my-2">BOGO 8/26</p>
+          <p className="font-bold text-white text-2xl px-2 pt-4">Sun's BOGO's Over</p>
+          <p className="text-white text-xl px-2 my-2">Through 8/26</p>
           <button className="border-white bg-white text-black font-bold absolute bottom-4 ml-4">
             Order Now
           </button>
