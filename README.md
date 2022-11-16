@@ -5,3 +5,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 * this is Food Web Application 
+* Technology Used : React ,  TailwindCSS. React Icons

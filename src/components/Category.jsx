@@ -1,9 +1,8 @@
-import React, { useState } from "react";
+import React from "react";
 import { categories } from "../data/data";
 
 const Category = () => {
     
-//   const [category, setCategory] = useState(categories);
 
   return (
     <div className="max-w-[1640px] mx-auto px-4 my-12">
